@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Authapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular-auth0
 Angular Authentication using Auth0 
->>>>>>> 7fe7d8740a63cda791c9c0eeb560ec3332aa7b1e
+
